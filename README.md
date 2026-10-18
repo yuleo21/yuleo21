@@ -79,14 +79,6 @@ I'm 21. Yes, my name is 21.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#522](https://github.com/SpikeHD/Dorion/pull/522) in [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion)
-2. 💪 Opened PR [#522](https://github.com/SpikeHD/Dorion/pull/522) in [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion)
-3. 🎉 Merged PR [#114](https://github.com/SpikeHD/shelter-plugins/pull/114) in [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins)
-4. 🗣 Commented on [#521](https://github.com/SpikeHD/Dorion/issues/521#issuecomment-6163872880) in [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion)
-5. 💪 Opened PR [#114](https://github.com/SpikeHD/shelter-plugins/pull/114) in [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins)
-6. 🗣 Commented on [#498](https://github.com/yksr-melt/Meltype/issues/498#issuecomment-6119320586) in [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype)
-7. ℹ️ Labeled issue [#498](https://github.com/yksr-melt/Meltype/issues/498) in [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype)
-8. ❗ Opened issue [#498](https://github.com/yksr-melt/Meltype/issues/498) in [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype)
 <!--END_SECTION:activity-->
 
 ---
@@ -109,7 +101,7 @@ I'm 21. Yes, my name is 21.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/FF8821/yuleo21" alt="contribution chart" width="100%" />
+<img src="https://ghchart.rshah.org/219DFF/yuleo21" alt="contribution chart" width="100%" />
 
 </div>
 
