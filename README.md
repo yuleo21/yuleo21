@@ -14,12 +14,11 @@
 
 <br/><br/>
 
-<a href="https://linktr.ee/yuleo21"><img src="https://img.shields.io/badge/Linktree-All%20Links-FF8821?style=for-the-badge&logo=linktree&logoColor=EEEEEE&labelColor=212121" alt="Linktree" /></a>
-<a href="https://twitter.com/etgdcny"><img src="https://img.shields.io/badge/Twitter-@etgdcny-219DFF?style=for-the-badge&logo=twitter&logoColor=EEEEEE&labelColor=212121" alt="Twitter" /></a>
-<a href="https://yuleo21.booth.pm"><img src="https://img.shields.io/badge/BOOTH-Shop-444444?style=for-the-badge&logo=booth&logoColor=EEEEEE&labelColor=212121" alt="BOOTH" /></a>
-<a href="https://steamcommunity.com/id/yuleo21"><img src="https://img.shields.io/badge/Steam-yuleo21-444444?style=for-the-badge&logo=steam&logoColor=EEEEEE&labelColor=212121" alt="Steam" /></a>
-<a href="https://vrchat.com/home/user/usr_a712b660-b449-48f9-bdb9-cf38cff3aeda"><img src="https://img.shields.io/badge/VRChat-Profile-444444?style=for-the-badge&logo=vrchat&logoColor=EEEEEE&labelColor=212121" alt="VRChat" /></a>
-<a href="https://github.com/yuleo21?tab=repositories"><img src="https://img.shields.io/badge/Repositories-All-444444?style=for-the-badge&logo=github&logoColor=EEEEEE&labelColor=212121" alt="Repositories" /></a>
+<a href="https://linktr.ee/yuleo21"><img src="https://img.shields.io/badge/Linktree-All%20Links-43E660?style=for-the-badge&logo=linktree&logoColor=EEEEEE&labelColor=212121" alt="Linktree" /></a>
+<a href="https://twitter.com/etgdcny"><img src="https://img.shields.io/badge/Twitter-@etgdcny-219DFF?style=for-the-badge&labelColor=212121" alt="Twitter" /></a>
+<a href="https://yuleo21.booth.pm"><img src="https://img.shields.io/badge/BOOTH-Shop-FC4D50?style=for-the-badge&labelColor=212121" alt="BOOTH" /></a>
+<a href="https://steamcommunity.com/id/yuleo21"><img src="https://img.shields.io/badge/Steam-yuleo21-1B2838?style=for-the-badge&logo=steam&logoColor=EEEEEE&labelColor=212121" alt="Steam" /></a>
+<a href="https://vrchat.com/home/user/usr_a712b660-b449-48f9-bdb9-cf38cff3aeda"><img src="https://img.shields.io/badge/VRChat-Profile-000000?style=for-the-badge&logo=vrchat&logoColor=EEEEEE&labelColor=212121" alt="VRChat" /></a>
 
 </div>
 
@@ -43,13 +42,13 @@ I'm 21. Yes, my name is 21.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-219DFF?style=for-the-badge&logo=dotnet&logoColor=212121&labelColor=212121" alt="C#" />
-<img src="https://img.shields.io/badge/Unity-444444?style=for-the-badge&logo=unity&logoColor=EEEEEE&labelColor=212121" alt="Unity" />
-<img src="https://img.shields.io/badge/VRChat-444444?style=for-the-badge&logo=vrchat&logoColor=EEEEEE&labelColor=212121" alt="VRChat" />
-<img src="https://img.shields.io/badge/Python-FF8821?style=for-the-badge&logo=python&logoColor=212121&labelColor=212121" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-444444?style=for-the-badge&logo=html5&logoColor=EEEEEE&labelColor=212121" alt="HTML5" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-444444?style=for-the-badge&logo=githubactions&logoColor=EEEEEE&labelColor=212121" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Git-444444?style=for-the-badge&logo=git&logoColor=EEEEEE&labelColor=212121" alt="Git" />
+<img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=EEEEEE&labelColor=212121" alt="C#" />
+<img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=EEEEEE&labelColor=212121" alt="Unity" />
+<img src="https://img.shields.io/badge/-VRChat-000000?style=for-the-badge&logo=vrchat&logoColor=EEEEEE&labelColor=212121" alt="VRChat" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=EEEEEE&labelColor=212121" alt="Python" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=EEEEEE&labelColor=212121" alt="HTML5" />
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=EEEEEE&labelColor=212121" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=EEEEEE&labelColor=212121" alt="Git" />
 
 </div>
 
@@ -102,7 +101,7 @@ I'm 21. Yes, my name is 21.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/219DFF/yuleo21" alt="contribution chart" width="100%" />
+<img src="https://ghchart.rshah.org/FF8821/yuleo21" alt="contribution chart" width="100%" />
 
 </div>
 
