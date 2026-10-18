@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=yuleo21&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=VRChat%20%C3%97%20Unity%20Tools%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="header" width="100%" />
 
 <a href="https://github.com/yuleo21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Unity+%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E6%8B%A1%E5%BC%B5%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;VRChat+%E5%90%91%E3%81%91%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB%E9%96%8B%E7%99%BA;C%23+%2F+Python+%2F+HTML" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+Unity+editor+extensions;Making+tools+for+VRChat;C%23+%2F+Python+%2F+HTML" alt="typing" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 <a href="https://yuleo21.booth.pm"><img src="https://img.shields.io/badge/BOOTH-Shop-FC4D50?style=for-the-badge&logo=booth&logoColor=white" alt="BOOTH" /></a>
 <a href="https://steamcommunity.com/id/yuleo21"><img src="https://img.shields.io/badge/Steam-yuleo21-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 <a href="https://vrchat.com/home/user/usr_a712b660-b449-48f9-bdb9-cf38cff3aeda"><img src="https://img.shields.io/badge/VRChat-Profile-1F1F1F?style=for-the-badge&logo=vrchat&logoColor=white" alt="VRChat" /></a>
-<a href="https://github.com/yuleo21?tab=repositories"><img src="https://img.shields.io/badge/Repositories-17-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/yuleo21?tab=repositories"><img src="https://img.shields.io/badge/Repositories-All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
@@ -27,15 +27,15 @@
 
 ## 👋 About
 
-21です。ゆれおでもいいよ。
-ゲームいろいろ。たまに AI を使いながら Python や C# で開発しています。
-Unity のエディタ拡張や VRChat まわりのツールは、VPM リスト（[21tools](https://github.com/yuleo21/21tools)）にまとめています。
+I'm 21. Yes, my name is 21.
+I play a lot of games, and I sometimes build things in Python and C# with the help of AI.
+My Unity editor extensions and VRChat tools are collected in my VPM listing, [21tools](https://github.com/yuleo21/21tools).
 
-- 🎂 2005/11/21 生まれの一般学生です
-- 🔧 主な言語は **C#**。ほかに **Python** と **HTML** も使います
-- 🎮 ゲームと VRChat が好きです（[Steam](https://steamcommunity.com/id/yuleo21) / [VRChat](https://vrchat.com/home/user/usr_a712b660-b449-48f9-bdb9-cf38cff3aeda)）
-- 🛍️ [BOOTH](https://yuleo21.booth.pm) で作ったものを公開しています
-- 🌐 リンクまとめは [Linktree](https://linktr.ee/yuleo21)、日々の発信は [X](https://twitter.com/etgdcny)
+- 🎂 Student, born 2005/11/21
+- 🔧 Main language: **Python**. I also use **C#** and **HTML**
+- 🎮 I like games ([Steam](https://steamcommunity.com/id/yuleo21) / [VRChat](https://vrchat.com/home/user/usr_a712b660-b449-48f9-bdb9-cf38cff3aeda))
+- 🛍️ I publish some of my work on [BOOTH](https://yuleo21.booth.pm)
+- 🌐 All my links are on [Linktree](https://linktr.ee/yuleo21), and I post on [X](https://twitter.com/etgdcny)
 
 ---
 
@@ -77,9 +77,10 @@ Unity のエディタ拡張や VRChat まわりのツールは、VPM リスト�
 
 ---
 
-## 🤝 Contributions
+## ⚡ Recent Activity
 
-- [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype) への用語修正 Pull Request（マージ済み）
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
