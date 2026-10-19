@@ -109,7 +109,7 @@ I'm 21. Yes, my name is 21.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/219DFF/yuleo21" alt="contribution chart" width="100%" />
+<img src="https://ghchart.rshah.org/FF8821/yuleo21" alt="contribution chart" width="100%" />
 
 </div>
 
