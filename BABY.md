@@ -93,8 +93,6 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=yuleo21&show_icons=true&bg_color=212121&title_color=219DFF&text_color=EEEEEE&icon_color=219DFF&ring_color=219DFF&hide_border=true&count_private=true&custom_title=%E3%81%8E%E3%81%A3%E3%81%A8%E3%81%AF%E3%81%B6%E3%81%AE%20%E3%81%99%E3%81%94%E3%81%95" alt="すてーたす" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuleo21&layout=compact&bg_color=212121&title_color=219DFF&text_color=EEEEEE&hide_border=true&custom_title=%E3%82%88%E3%81%8F%20%E3%81%A4%E3%81%8B%E3%81%86%20%E3%81%93%E3%81%A8%E3%81%B0" alt="よく つかう げんご" />
 
-<img src="https://streak-stats.demolab.com/?user=yuleo21&locale=ja&background=212121&hide_border=true&stroke=444444&ring=219DFF&fire=219DFF&currStreakNum=EEEEEE&sideNums=EEEEEE&currStreakLabel=219DFF&sideLabels=EEEEEE&dates=888888" alt="つづけた ひ" />
-
 </div>
 
 ---
