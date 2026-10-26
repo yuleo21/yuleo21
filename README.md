@@ -20,6 +20,10 @@
 <a href="https://steamcommunity.com/id/yuleo21"><img src="https://img.shields.io/badge/Steam-yuleo21-1B2838?style=for-the-badge&logo=steam&logoColor=EEEEEE&labelColor=212121" alt="Steam" /></a>
 <a href="https://vrchat.com/home/user/usr_a712b660-b449-48f9-bdb9-cf38cff3aeda"><img src="https://img.shields.io/badge/VRChat-Profile-000000?style=for-the-badge&logo=vrchat&logoColor=EEEEEE&labelColor=212121" alt="VRChat" /></a>
 
+<br/><br/>
+
+<a href="https://github.com/yuleo21/yuleo21/blob/main/BABY.md"><img src="https://img.shields.io/badge/%F0%9F%8D%BC%20Baby%20Mode-OFF-444444?style=for-the-badge&labelColor=212121" alt="Baby Mode" /></a>
+
 </div>
 
 ---
@@ -65,11 +69,11 @@ I'm 21. Yes, my name is 21.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuleo21&repo=SubAssetEditor&bg_color=212121&title_color=EEEEEE&text_color=DDDDDD&icon_color=219DFF&hide_border=true&description_lines_count=2" alt="SubAssetEditor" />
 </a>
 
-<a href="https://github.com/yuleo21/RestartUnity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuleo21&repo=RestartUnity&bg_color=212121&title_color=EEEEEE&text_color=DDDDDD&icon_color=219DFF&hide_border=true&description_lines_count=2" alt="RestartUnity" />
+<a href="https://github.com/yuleo21/AnimatorLayerDeleter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuleo21&repo=AnimatorLayerDeleter&bg_color=212121&title_color=EEEEEE&text_color=DDDDDD&icon_color=219DFF&hide_border=true&description_lines_count=2" alt="AnimatorLayerDeleter" />
 </a>
-<a href="https://github.com/yuleo21/ToNMasterChangeNotifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuleo21&repo=ToNMasterChangeNotifier&bg_color=212121&title_color=EEEEEE&text_color=DDDDDD&icon_color=219DFF&hide_border=true&description_lines_count=2" alt="ToNMasterChangeNotifier" />
+<a href="https://github.com/yuleo21/RemoveMenuWithParameters">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuleo21&repo=RemoveMenuWithParameters&bg_color=212121&title_color=EEEEEE&text_color=DDDDDD&icon_color=219DFF&hide_border=true&description_lines_count=2" alt="RemoveMenuWithParameters" />
 </a>
 
 </div>
@@ -79,6 +83,14 @@ I'm 21. Yes, my name is 21.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#522](https://github.com/SpikeHD/Dorion/pull/522) in [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion)
+2. 💪 Opened PR [#522](https://github.com/SpikeHD/Dorion/pull/522) in [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion)
+3. 🎉 Merged PR [#114](https://github.com/SpikeHD/shelter-plugins/pull/114) in [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins)
+4. 🗣 Commented on [#521](https://github.com/SpikeHD/Dorion/issues/521#issuecomment-6163872880) in [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion)
+5. 💪 Opened PR [#114](https://github.com/SpikeHD/shelter-plugins/pull/114) in [SpikeHD/shelter-plugins](https://github.com/SpikeHD/shelter-plugins)
+6. 🗣 Commented on [#498](https://github.com/yksr-melt/Meltype/issues/498#issuecomment-6119320586) in [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype)
+7. ℹ️ Labeled issue [#498](https://github.com/yksr-melt/Meltype/issues/498) in [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype)
+8. ❗ Opened issue [#498](https://github.com/yksr-melt/Meltype/issues/498) in [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype)
 <!--END_SECTION:activity-->
 
 ---
@@ -101,7 +113,7 @@ I'm 21. Yes, my name is 21.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/219DFF/yuleo21" alt="contribution chart" width="100%" />
+<img src="https://ghchart.rshah.org/FF8821/yuleo21" alt="contribution chart" width="100%" />
 
 </div>
 
